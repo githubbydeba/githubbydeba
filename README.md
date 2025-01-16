@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Application Support Engineer..<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React-Js.<br>💬 Ask me about Web-Development.<br>⚡ Fun fact I am lazy but smart.
+🔭 I’m currently working on Data Analyst..<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning React-Js.<br>💬 Ask me about Web-Development.<br>⚡ Fun fact I am lazy but smart.
 
 
 ## 🌐 Socials:
